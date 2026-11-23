@@ -1,0 +1,23 @@
+h1 {
+    color: gold;
+}
+html {
+    background-color: black;
+    color: white;
+}
+button {
+    background-color: gold;
+    border-color: goldenrod;
+    transition: font-size 0.3s;
+}
+button:hover {
+    font-size: 125%;
+}
+textarea {
+    background-color: gold;
+    border-color: goldenrod;
+}
+
+.error {
+    color: red;
+}
